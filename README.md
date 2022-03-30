@@ -1,11 +1,10 @@
 # Terraform-Weight-Tracker
-
-
+## Requirements
 - Terraform
 - Azure account
 - Azure CLI
 
-# The Project
+## The Project
 This Terraform project create the diagram: ![image](https://user-images.githubusercontent.com/74772340/160320127-ba27496e-a641-446c-95f4-80f04c12138a.png)
 
 In this project we are going to create the infrastructure of the WeightTracker application with Terraform
