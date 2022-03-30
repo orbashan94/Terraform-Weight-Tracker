@@ -4,6 +4,10 @@
 - Azure account
 - Azure CLI
 
+## Configuration
+- Use azurerm as a provider.
+- Create .tfvars file for your variables.
+
 ## The Project
 This Terraform project create the diagram: ![image](https://user-images.githubusercontent.com/74772340/160320127-ba27496e-a641-446c-95f4-80f04c12138a.png)
 
